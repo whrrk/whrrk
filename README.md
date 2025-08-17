@@ -33,4 +33,4 @@
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=wonhyung-jung&color=skyblue)
+![Visitor Count](https://komarev.com/ghpvc/?username=wonhyung-jung&color=orange)
