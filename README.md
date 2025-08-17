@@ -1,24 +1,23 @@
 # 👋 こんにちは, I'm Wonhyung  
 
 💻 Web Application Developer in Japan  
-🌐 Passionate about **Web3, Blockchain, and Crypto Trading Systems**  
-🚀 Exploring **DeFi, Smart Contracts, and Trading Bots**
+🌐 Experienced in building services across **E-commerce, crypto exchange**  
+🚀 Interested in **scalable system design, microservices, and Web3**
 
 ---
 
 ## 🔧 Tech Stack
-- **Languages**: Python, PHP (Laravel), JavaScript/TypeScript, Solidity  
+- **Languages**: Python, PHP (Laravel), JavaScript/TypeScript  
 - **Frameworks & Tools**: Django, Laravel, Node.js, React  
-- **Blockchain**: Web3.js, Ethers.js, ccxt, DeFi protocols  
-- **Infra & Others**: Docker, AWS, GitHub Actions  
+- **Database & Infra**: MySQL, Redis, Docker, AWS, GCP
+- **Exploring**: Solidity, Ethers.js, Blockchain APIs  
 
 ---
 
-## 🪙 Current Interests
-- Building **crypto auto-trading systems** (Bybit / OKX / Binance APIs)  
-- Exploring **DeFi strategies** and yield optimization  
-- Learning about **Layer2 scaling, MEV, and next-gen blockchain infra**
-
+## 🏗️ Project Interests
+- Developing **open systems** that support millions of users  
+- Exploring **IoT × Cloud services** for manufacturing & logistics  
+- Researching **Web3 and DeFi** as emerging technologies  
 ---
 
 ## 📊 GitHub Stats
