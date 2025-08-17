@@ -25,8 +25,7 @@
 
 ---
 
-## 📫 Connect
-- 🌏 [LinkedIn](https://www.linkedin.com/in/wonh-jung/)  
+## 📫 Connect 
 - ✍️ Blog: [Medium](https://medium.com/@whenry8712)  
 - 📩 Email: whenry8712@gmail.com
 
