@@ -7,16 +7,16 @@
 ---
 
 ## 🔧 Tech Stack
-- **Languages**: Python, PHP (Laravel), JavaScript/TypeScript  
-- **Frameworks & Tools**: Django, Laravel, Node.js, React  
+- **Languages**: Python, PHP, JavaScript/TypeScript, Java
+- **Frameworks & Tools**: Django, Laravel, Node.js
 - **Database & Infra**: MySQL, Redis, Docker, AWS, GCP
 - **Exploring**: Solidity, Ethers.js, Blockchain APIs  
 
 ---
 
 ## 🏗️ Project Interests
-- Developing **open systems** that support millions of users  
-- Exploring **IoT × Cloud services** for manufacturing & logistics  
+- Developing **open systems** that support users  
+- Exploring **Cloud & Infra services** for manufacturing & logistics  
 - Researching **Web3 and DeFi** as emerging technologies  
 ---
 
