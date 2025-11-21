@@ -8,8 +8,8 @@
 
 ## 🔧 Tech Stack
 - **Languages**: Python, PHP, JavaScript/TypeScript, Java
-- **Frameworks & Tools**: Django, Laravel, Node.js
-- **Database & Infra**: MySQL, Redis, Docker, AWS, GCP
+- **Frameworks & Tools**: Django, FastAPI, Laravel, Node.js
+- **Database & Infra**: RDB, NoSQL, Docker, AWS, GCP, OCI
 - **Exploring**: Solidity, Ethers.js, Blockchain APIs  
 
 ---
