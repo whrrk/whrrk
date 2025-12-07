@@ -18,11 +18,7 @@
 - Developing **open systems** that support users  
 - Exploring **Cloud & Infra services** for manufacturing & logistics  
 - Researching **Web3 and DeFi** as emerging technologies
-  
----
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whrrk&layout=compact&theme=tokyonight)
 
 ---
 
