@@ -21,5 +21,10 @@
   
 ---
 
+## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whrrk&layout=compact&theme=tokyonight)
+
+---
+
 ## 📫 Connect 
 - 📩 Email: whenry8712@gmail.com
