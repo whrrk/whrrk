@@ -8,9 +8,9 @@
 
 ## 🔧 Tech Stack
 - **Languages**: Python, PHP, JavaScript/TypeScript, Java
-- **Frameworks & Tools**: Django, FastAPI, Laravel, Node.js
+- **Frameworks & Tools**: FastAPI, Laravel, Tensorflow
 - **Database & Infra**: RDB, NoSQL, Docker, AWS, GCP, OCI
-- **Exploring**: Solidity, Ethers.js, Blockchain APIs  
+- **Exploring**: DeepLearning
 
 ---
 
@@ -23,8 +23,6 @@
 ---
 
 ## Languages
-
-https://gh-stats-api.reizt.workers.dev/whrrk
 
 
 ---
