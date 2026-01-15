@@ -22,5 +22,12 @@
 
 ---
 
+## Languages
+
+https://gh-stats-api.reizt.workers.dev/whrrk
+
+
+---
+
 ## 📫 Connect 
 - 📩 Email: whenry8712@gmail.com
