@@ -8,7 +8,7 @@
 
 ## 🔧 Tech Stack
 - **Languages**: Python, PHP, JavaScript/TypeScript, Java
-- **Frameworks & Tools**: FastAPI, Laravel, Tensorflow
+- **Frameworks & Tools**: FastAPI, Laravel, Tensorflow, Next.js
 - **Database & Infra**: RDB, NoSQL, Docker, AWS, GCP, OCI
 - **Exploring**: DeepLearning
 
