@@ -23,8 +23,7 @@
 ---
 
 ## Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Metrics](https://github.com/whrrk/whrrk/blob/main/github-metrics.svg)
 
 ## 📫 Connect 
 - 📩 Email: whenry8712@gmail.com
