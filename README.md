@@ -24,7 +24,7 @@
 
 ## Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whrrk&layout=compact)---
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ## 📫 Connect 
 - 📩 Email: whenry8712@gmail.com
