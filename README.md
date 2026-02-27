@@ -23,7 +23,7 @@
 ---
 
 ## Languages
-![Metrics](https://github.com/whrrk/whrrk/blob/main/github-metrics.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&cache_seconds=86400)
 
 ## 📫 Connect 
 - 📩 Email: whenry8712@gmail.com
