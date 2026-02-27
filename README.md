@@ -23,7 +23,7 @@
 ---
 
 ## Languages
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=whrrk&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whrrk&theme=github)
 
 ## 📫 Connect 
 - 📩 Email: whenry8712@gmail.com
