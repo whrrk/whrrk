@@ -19,7 +19,7 @@
 - Exploring **Cloud & Infra services** for manufacturing & logistics  
 - Researching **Web3 and DeFi** as emerging technologies
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whrrk&theme=github)
+---
 
 ## 📫 Connect 
 - 📩 Email: whenry8712@gmail.com
