@@ -1,4 +1,4 @@
-# 👋 こんにちは, I'm Wonhyung
+# 👋 こんにちは
 
 💻 Web Application Developer in Japan  
 🌐 Experienced in building services across **E-commerce, crypto exchange**  
